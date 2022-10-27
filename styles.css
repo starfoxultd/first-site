@@ -6,4 +6,7 @@ body {
   }
   p {
     color: rgb(98, 0, 255);
+  } 
+    a {
+    font-family: "Lucida Console", "Courier New", monospace;
   }
